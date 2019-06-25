@@ -1,0 +1,93 @@
+[
+  {
+    "type": "committee",
+    "email": "committee@wic.cl",
+    "password": 1234,
+    "firstname": "Clara",
+    "lastname1": "Cortés",
+    "lastname2": "Lozano",
+    "institution": "U. Diego Portales",
+    "rut": 17000001,
+    "birthdate": "1990-10-10",
+    "gender": "Femenino",
+    "phone": 5698745112
+  },
+  {
+    "type": "general-chair",
+    "email": "general@wic.cl",
+    "password": 1234,
+    "firstname": "Lucía",
+    "lastname1": "Alonso",
+    "lastname2": "Blanco",
+    "institution": "U. de Santiago de Chile",
+    "rut": 17000002,
+    "birthdate": "1990-10-10",
+    "gender": "Femenino",
+    "phone": 5698745112
+  },
+  {
+    "type": "organization-chair",
+    "email": "organization@wic.cl",
+    "password": 1234,
+    "firstname": "Paula",
+    "lastname1": "González",
+    "lastname2": "Reyes",
+    "institution": "U. Adolfo Ibañez",
+    "rut": 17000003,
+    "birthdate": "1990-10-10",
+    "gender": "Femenino",
+    "phone": 5698745112
+  },
+  {
+    "type": "student",
+    "email": "student@wic.cl",
+    "password": 1234,
+    "firstname": "Nuria",
+    "lastname1": "Carmona",
+    "lastname2": "Ruiz",
+    "institution": "U. Técnica Federico Santa María",
+    "rut": 17000004,
+    "birthdate": "1990-10-10",
+    "gender": "Femenino",
+    "phone": 5698745112
+  },
+  {
+    "type": "professional",
+    "email": "professional@wic.cl",
+    "password": 1234,
+    "firstname": "Julia",
+    "lastname1": "Ruiz",
+    "lastname2": "Díaz",
+    "institution": "U. Finis Terrae",
+    "rut": 17000005,
+    "birthdate": "1990-10-10",
+    "gender": "Femenino",
+    "phone": 5698745112
+  },
+  {
+    "type": "reviser",
+    "email": "reviser@wic.cl",
+    "password": 1234,
+    "firstname": "Inés",
+    "lastname1": "Ñúñez",
+    "lastname2": "Santiago",
+    "institution": "U. Católica de Chile",
+    "rut": 17000006,
+    "birthdate": "1990-10-10",
+    "gender": "Femenino",
+    "phone": 5698745112
+  },
+  {
+    "type": "assistant",
+    "email": "assistant@wic.cl",
+    "password": 1234,
+    "firstname": "Alicia",
+    "lastname1": "Carrasco",
+    "lastname2": "Fuentes",
+    "institution": "U. de Chile",
+    "rut": 17000007,
+    "birthdate": "1990-10-10",
+    "gender": "Femenino",
+    "phone": 5698745112
+  }
+]
